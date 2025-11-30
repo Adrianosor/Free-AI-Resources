@@ -42,6 +42,7 @@ Artificial Intelligence is advancing by leaps and bounds. Recent research in the
 Even if your profession is not directly related to tech, still it's said that AI will disrupt every field in one or other ways. That's why you need to have at least a basic understanding of how AI works.
 
 ### 🤖 FREE AI COURSES:
+- System Designer - https://systemdesigner.net
 - EdX’s Artificial Intelligence - https://www.edx.org/course/artificial-intelligence-ai
 - Udacity’s Intro to Artificial Intelligence - https://www.udacity.com/course/intro-to-artificial-intelligence--cs271
 - Artificial Intelligence: Principles and Techniques By Stanford - http://web.stanford.edu/class/cs221/

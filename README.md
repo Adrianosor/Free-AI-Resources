@@ -301,6 +301,9 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Stanford CS221 Artificial Intelligence: https://github.com/afshinea/stanford-cs-221-artificial-intelligence
 - Collection of AI Cheat-Sheets: http://www.aicheatsheets.com/
 
+### 🧩 RAG & LLM Debugging Resources:
+- WFGY RAG 16 Problem Map: https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md
+
 # CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
 If you want to add something then your commit message should be like: **added <resource_name> to <section_name>**
